@@ -1,0 +1,5 @@
+This is a rock paper scissors game that can be played in a terminal or cmd
+It has the options of:
+1. Two players 
+2. A computer and a player
+3. Two computers
